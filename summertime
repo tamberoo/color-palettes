@@ -1,0 +1,32 @@
+!! summertime
+!! by user
+
+!! Base colors
+!*.foreground:	#f5f3e8
+!*.background:	#212226
+!*.cursorColor:	#f5f3e8
+
+!! Blacks
+!*.color0:	#212226
+!*.color8:	#686862
+!! Reds
+!*.color1:	#e33d3d
+!*.color9:	#fe8d6f
+!! Greens
+!*.color2:	#b4b300
+!*.color10:	#eae848
+!! Yellows
+!*.color3:	#eca63c
+!*.color11:	#f3d08a
+!! Blues
+!*.color4:	#077b88
+!*.color12:	#9dc6ca
+!! Purples
+!*.color5:	#975296
+!*.color13:	#e3a6c4
+!! Cyans
+!*.color6:	#2c8b7a
+!*.color14:	#92e5c8
+!! Whites
+!*.color7:	#a0a19e
+!*.color15:	#f5f3e8
