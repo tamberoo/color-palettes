@@ -1,0 +1,24 @@
+!! diana by ellie
+! inspired by vermeer's *Diana and Her Companions*
+! this is a work in progress
+
+!! diana:
+*.color0:	#332f2f
+*.color1:	#411013
+*.color2:	#403923
+*.color3:	#68461f
+*.color4:	#252534
+*.color5:	#2e2534
+*.color6:	#253432
+*.color7:	#91837a
+*.color8:	#726860
+*.color9:	#b0574a
+*.color10:	#757144
+*.color11:	#b2873c
+*.color12:	#4f647a
+*.color13:	#6e4f7a
+*.color14:	#4f7a66
+*.color15:	#ddc6be
+*.background:	#000000 
+*.foreground:	#ebebeb
+*.cursorColor:	#ebebeb
